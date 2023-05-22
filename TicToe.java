@@ -3,7 +3,7 @@ public class TicToe {
     public static void main(String args[]) {
         TicTacToe t = new TicTacToe();
         HumanPlayer p1 = new HumanPlayer("Sumit", 'X');
-        HumanPlayer p2 = new HumanPlayer("John", 'O');
+        HumanPlayer p2 = new HumanPlayer("Chotu", 'O');
 
         HumanPlayer cp;
         cp = p1;
