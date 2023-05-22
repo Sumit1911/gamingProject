@@ -2,7 +2,7 @@ import java.util.*;
 public class TicToe {
     public static void main(String args[]) {
         TicTacToe t = new TicTacToe();
-        HumanPlayer p1 = new HumanPlayer("Jack", 'X');
+        HumanPlayer p1 = new HumanPlayer("Sumit", 'X');
         HumanPlayer p2 = new HumanPlayer("John", 'O');
 
         HumanPlayer cp;
